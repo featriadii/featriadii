@@ -1,5 +1,5 @@
 # **Aditya Fitriadi**  
-I'm a software engineer with 4+ years of experience. Lately I’ve been diving deep into Go’s concurrency patterns, while also experimenting Phaser and Godot for game development 
+I'm a software engineer with 4+ years of experience. Lately I’ve been diving deep into Golang’s concurrency patterns, while also experimenting Phaser and Godot for game development 
 
 ## 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
